@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural", "Procedural\Procedural.csproj", "{A15EB557-D611-4765-B305-0B2D58BFA43E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural.Test", "Procedural.Test\Procedural.Test.csproj", "{D1BDDD36-E612-4680-8130-4099A99BEF1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural.Bench", "Procedural.Bench\Procedural.Bench.csproj", "{9E6C06DC-D075-4838-BCD8-AB50669C4A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E6C06DC-D075-4838-BCD8-AB50669C4A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6C06DC-D075-4838-BCD8-AB50669C4A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6C06DC-D075-4838-BCD8-AB50669C4A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6C06DC-D075-4838-BCD8-AB50669C4A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15EB557-D611-4765-B305-0B2D58BFA43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15EB557-D611-4765-B305-0B2D58BFA43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15EB557-D611-4765-B305-0B2D58BFA43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15EB557-D611-4765-B305-0B2D58BFA43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1BDDD36-E612-4680-8130-4099A99BEF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BDDD36-E612-4680-8130-4099A99BEF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BDDD36-E612-4680-8130-4099A99BEF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BDDD36-E612-4680-8130-4099A99BEF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
